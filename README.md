@@ -1,4 +1,5 @@
 # CPRSmartGlove
+Thesis paper http://urn.fi/URN:NBN:fi:aalto-202201041024
 I was researching and prototyping a smart glove for CPR training as a final year bachelor's student.
 Project architecture:
 The system hardware consists of five main parts:
